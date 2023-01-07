@@ -1,2 +1,3 @@
-# Challenge-7-Asssignment
-The project files of my Helix Jump Clone
+# Helix Jump Clone
+
+The project files of my Helix Jump Clone made with Unity.
